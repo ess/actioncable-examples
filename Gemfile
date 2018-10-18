@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.0.0'
 
-gem 'pg'
+gem 'pg', '~> 0.18'
 gem 'redis'
 gem 'puma'
 gem 'unicorn'
