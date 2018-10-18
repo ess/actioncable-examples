@@ -14,6 +14,7 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 
 gem 'jbuilder', '~> 2.0'
+gem 'bundler', '= 1.16.2'
 
 group :development, :test do
   gem 'byebug'
